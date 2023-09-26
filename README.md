@@ -1,2 +1,2 @@
-# code-practice
-Code practices I have done so far
+# Code-practice
+Currently practising on Algoexpert and Leetcode
