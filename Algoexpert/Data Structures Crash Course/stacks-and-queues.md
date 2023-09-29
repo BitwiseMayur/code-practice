@@ -4,7 +4,7 @@ To understand the concept of Stacks, we can consider a real life example such as
 The first book will be taken out first, it follows LIFO principle meaning Last In First Out. A new book can be added at the top and the same book has to be removed. This is a simple explanation of a Stack.
 
 For Queue, off course we all know what a queue is, it's the same here as well. Queue is nothing but standing in line in a movie theatre for the expensive popcorn. 
-![image](https://github.com/adhyaksha/code-practice/assets/10979938/3c349e6b-8275-407a-a368-ac239758ff9f)
+<img width="347" alt="image" src="https://github.com/adhyaksha/code-practice/assets/10979938/827b73f4-9afc-4540-91ce-40c998db9386">
 First guy enters the queue gets it first and the last guy gets it at the very last in an ideal scenario unless you start a new line and confuse others. Queues follow FIFO principle meaning First In First Out. 
 
 Time and Space complexity
