@@ -20,4 +20,6 @@ If we want to add the element, we just replace the head and for removal we delet
 respectively.
 
 2. Search
-To search an element, it will take about O(n) time operation. It's quite simple like we have to traverse all the elements in order to get to the element. 
+To search an element, it will take about O(n) time operation. It's quite simple like we have to traverse all the elements in order to get to the element.
+
+There is something called as peek in both stack and queue which is equivalent of pop and dequeue just that the operation does not remove the element but just looks at it. 
