@@ -14,4 +14,4 @@
 12. Authentication - **jwt** token
 13. HTTP methods - GET, POST, PUT
 14. **API versioning**
-15. https://leetcode.com/problems/merge-intervals/ - Problem solution - Time complexity
+15. Leetcode [merge intervals](https://leetcode.com/problems/merge-intervals/) - Problem solution - Time complexity
