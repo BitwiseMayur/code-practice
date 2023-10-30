@@ -18,7 +18,7 @@
  17. What are **Django mixins**
  18. **MVC and MVT** architecture
  19. What are **ORM**s, what is the advantage of using it
- 20. Difference between **mysql and postgres**
+ 20. Difference between [**mysql and postgres**](https://youtu.be/vAv5lks4gzA?si=RAe1K0_Cxep3rmwX)
  21. If we want to migrate tables from mysql to postgres, what will be the steps taken
  22. Advantages of **mysql over postgres**
  23. What is RESTful framework
