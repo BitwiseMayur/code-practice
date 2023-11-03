@@ -1,4 +1,4 @@
-# Interview experience of Encora, conducted on 30th Oct 2023
+# Interview experience of Encora
  1. Introduction
  2. Difference between **mutable and immutable**, whether **dict keys** can be mutable?
  3. Everything is an object in Python, what does it mean?
