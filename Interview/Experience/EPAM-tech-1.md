@@ -8,7 +8,7 @@
 8. Did you get a chance to work on thread and process
 9. Write a function to return the indexes of two numbers which is equal to the target value. Ex: list = [2, 8, 7, 10, 11] target = 9, Output = [0, 2]
 10. Did you get a chance to work with asyncio
-11. Difference between __init__ and __new__
+11. Difference between \__init\__ and \_\_new\_\_
 12. OOPS concepts, Abstract class/methods, meta class, MRO - method resolution order, how does python support multiple inheritance
 13. Gave an example of inheritance, and asked me to call the method from the parent class, the same method exists in both the child as well as in parent
 14. Decorators
